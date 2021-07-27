@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+string currentYear="2021";
+string myfriDod="2003.";
+
+string myfriAge="currentYear-myfriDob";
+string myfriUni="TU Hmawbi.";
+
+cout<< "My friend name is Ngal." << endl << "She is" << myfriAge << endl << "She is from" << myfriUni <<;
+return 0; 
